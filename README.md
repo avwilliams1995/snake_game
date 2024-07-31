@@ -27,11 +27,17 @@ To run the Snake Game on your local machine, follow these steps:
    cd snake_game
 
 2. **Install Python**:
-   
-  brew install python
-  You can also download and install Python from the official Python website: python.org.
+
+   ```bash
+   brew install python
 
 3. **Run the game**:
-   
+
+   ```bash
    python main.py
+
+   
+
+
+
    
